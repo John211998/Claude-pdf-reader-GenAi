@@ -13,7 +13,8 @@ In this hands-on tutorial, we will demonstrate the following:
 
 
 ## Architecture
-![image info](![Bedrock-ChatWithPdf](https://github.com/user-attachments/assets/2e347dcc-628b-4dc1-8742-8f697c0949f7))
+![Bedrock-ChatWithPdf](https://github.com/user-attachments/assets/a5374981-3885-447d-91c4-f7777bb32c65)
+
 
 
 ## ADMIN Application:
