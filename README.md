@@ -13,7 +13,8 @@ In this hands-on tutorial, we will demonstrate the following:
 
 
 ## Architecture
-![image info](./Bedrock-ChatWithPdf.png)
+![image info](![Bedrock-ChatWithPdf](https://github.com/user-attachments/assets/2e347dcc-628b-4dc1-8742-8f697c0949f7))
+
 
 ## ADMIN Application:
     - Build Admin Web application where AdminUser can upload the pdf.
